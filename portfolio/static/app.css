@@ -111,24 +111,28 @@ hr {
   }
 @keyframes animate {
     30%{
-        content: 'Abdelaali ES SALMI';
+        content: 'Atman BOULAAJAILI';
         opacity: 1;
     }
-    45%{
-        opacity: 0;
-    }
     65%{
-        content: 'Programmer';
+        content: 'Software Engineer';
         opacity: 1;
         
     }
     70%{
-        opacity: 0;
-    }
-    80%{
-        content: 'Full Stack Developer';
+        content: 'Python and Go Solutions Developer';
         opacity: 1;
     }
+    80%{
+        content: 'DevSecOps';
+        opacity: 1;
+    }
+    45%{
+        content: 'Penetration Tester';
+        opacity: 1;
+    }
+
+
 }
 
 /* ScrolDown */
